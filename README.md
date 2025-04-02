@@ -28,19 +28,26 @@ Calculate the equation of the circle of best fit from an array of larger that th
 
 My main repositories that I feel are useful enough to be publicly released are listed below. Some of these are much, much older than the commit history would have you believe so the code quality is not always the best. The development of all the below projects significantly contributed to my journey to advance as a developer, each teaching me several new things about integral structure of programs, working in teams or leaning a language.
 
+### ArmorPaint Cloud Content Manager
+
+ArmorPaint Cloud Content Manager is a command line application for downloading, updating, and removing the cloud resources for ArmorPaint on your local machine. I built it after I tried and failed to use the cloud textures when experimenting with the ArmorPaint 3D texture painting tool due to an error in the application.
+
+* [view source](https://github.com/SecretSheppy/armorpaint-cloud-content-manager)
+* [get latest release](https://github.com/SecretSheppy/armorpaint-cloud-content-manager/releases/latest)
+
 ### Haskedit
 
 Haskedit is my most recent attempt at a "proper" desktop application. It is a text editor for Haskell on windows that provides all the basic essentials whilst also being relatively light weight in terms of memory usage. I built Haskedit as I was required to use Haskell for a recent project and I felt that there were no editors that provided the experience I wanted to work with.
 
 * [view source](https://github.com/SecretSheppy/haskedit)
-* [get latest release](https://github.com/SecretSheppy/haskedit/releases/tag/1.1.0)
+* [get latest release](https://github.com/SecretSheppy/haskedit/releases/latest)
 
 ### Ciphershare
 
 Ciphershare is an encrypted filesharing website that I built with three friends at a 24 hour hackathon. It is built in go using the gorilla web framework. I was the only person on the team with go experience, so working in the team was a fun and rewarding challenge.
 
 * [view source](https://github.com/SecretSheppy/ciphershare)
-* [get latest release](https://github.com/SecretSheppy/ciphershare/releases/tag/v1.0.0)
+* [get latest release](https://github.com/SecretSheppy/ciphershare/releases/latest)
 
 ### NX1C web forum
 
