@@ -72,3 +72,13 @@ A decentralised end to end encrypted messaging service. The default encryption p
 Open Explorer is a project I will one day revisit and revitalise. I built Open Explorer because I really like the Windows File Explorer experience, and I wanted to create a file browser that would give the same experience on all platforms. I did achieve this goal but I had not planned this project, so I ended up with a very inefficient core structure and consequently relatively poor code quality. This project is much older than when I committed it to GitHub.
 
 * [view source](https://github.com/SecretSheppy/open-explorer)
+
+## My Guides
+
+I occasionally write guides to help clarify things that may be helpful to other developers, particularly those who are looking to get started with something new.
+
+### Using JOGL (Java OpenGL) with IntelliJ
+
+I wrote this guide because I was using [JOGL](https://jogamp.org/jogl/www/) for a university module. We were instructed to use the JAR version of the library, and getting this setup in JetBrains is not the most straightforward process. This guide brings together all the resources I found I needed to accomplish this and presents instructions along with visual aids for clarity.
+
+* [view source](https://github.com/SecretSheppy/jogl-with-jetbrains-ides)
