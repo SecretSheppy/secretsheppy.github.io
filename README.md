@@ -28,6 +28,13 @@ Calculate the equation of the circle of best fit from an array of larger that th
 
 My main repositories that I feel are useful enough to be publicly released are listed below. Some of these are much, much older than the commit history would have you believe so the code quality is not always the best. The development of all the below projects significantly contributed to my journey to advance as a developer, each teaching me several new things about integral structure of programs, working in teams or leaning a language.
 
+### Heather4Java
+
+The fourth iteration of my Heather game engine, built in Java with the JOGL OpenGL bindings for a university 3D project. The design is based loosely off of my experience with Unreal Engine. It allows for loading of 3D object files, texturing, animations (via a custom animation language) and a variety of other things. It is not a hugely advanced game engine, but given enough time you could definitely build some cool things by using it as a launchpad to build off of. It was very, very fun to develop. I particularly enjoyed making under the hood performance improvements as the engine got more complicated!
+
+* [view source](https://github.com/SecretSheppy/heather4java)
+* [get latest release](https://github.com/SecretSheppy/heather4java/releases/latest)
+
 ### ArmorPaint Cloud Content Manager
 
 ArmorPaint Cloud Content Manager is a command line application for downloading, updating, and removing the cloud resources for ArmorPaint on your local machine. I built it after I tried and failed to use the cloud textures when experimenting with the ArmorPaint 3D texture painting tool due to an error in the application.
