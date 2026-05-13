@@ -6,27 +6,22 @@
 
 I am primarily a full stack web developer, with desktop app development experience in nw.js. I have significant experience in JavaScript (pure, jQuery and node), HTML and CSS. I thoroughly enjoy exploring new languages. My current favourite language is go (Golang) and I am currently working on several projects in go.
 
-## My Pages Deployments
-
-Occasionally I write something useful which I then host on GitHub pages. These projects are linked below.
-
-### String of cards to Unicode playing cards
-
-Takes a string of playing cards formatted as `Card {value=Two, suit=Diamond}` and converts it into a string of Unicode playing cards.
-
-* [view deployment](https://secretsheppy.github.io/text-to-playing-card/)
-* [view source](https://github.com/SecretSheppy/text-to-playing-card)
-
-### Array of points to equation of a circle (Least Square Circle)
-
-Calculate the equation of the circle of best fit from an array of larger that three points. The user can disable certain points, and the equation history is tracked, allowing the user to see how different points affect the result.
-
-* [view deployment](https://secretsheppy.github.io/circle-data-from-points/)
-* [view source](https://github.com/SecretSheppy/circle-data-from-points)
-
 ## My Repositories
 
 My main repositories that I feel are useful enough to be publicly released are listed below. Some of these are much, much older than the commit history would have you believe so the code quality is not always the best. The development of all the below projects significantly contributed to my journey to advance as a developer, each teaching me several new things about integral structure of programs, working in teams or leaning a language.
+
+## Marv: Mutations Analysis, Review and Visualization
+
+Marv is an interactive tool for visualising and reviewing the results of mutation analysis. Marv natively transforms the output of its various supported mutation analysis frameworks into its own standardized format in order to present the results. It allows for textual review of individual mutations. Marv displays the results of multiple frameworks simultaneously, allowing for review of results across many frameworks or even languages in one go.
+
+* [view source](https://github.com/SecretSheppy/marv)
+* [get latest release](https://github.com/SecretSheppy/marv/releases/latest)
+
+Marv can be easily installed on any system through Go:
+
+```
+go install github.com/SecretSheppy/marv@latest
+```
 
 ### Heather4Java
 
@@ -89,3 +84,22 @@ I occasionally write guides to help clarify things that may be helpful to other 
 I wrote this guide because I was using [JOGL](https://jogamp.org/jogl/www/) for a university module. We were instructed to use the JAR version of the library, and getting this setup in JetBrains is not the most straightforward process. This guide brings together all the resources I found I needed to accomplish this and presents instructions along with visual aids for clarity.
 
 * [view source](https://github.com/SecretSheppy/jogl-with-jetbrains-ides)
+
+## My Pages Deployments
+
+Occasionally I write something useful which I then host on GitHub pages. These projects are linked below.
+
+### String of cards to Unicode playing cards
+
+Takes a string of playing cards formatted as `Card {value=Two, suit=Diamond}` and converts it into a string of Unicode playing cards.
+
+* [view deployment](https://secretsheppy.github.io/text-to-playing-card/)
+* [view source](https://github.com/SecretSheppy/text-to-playing-card)
+
+### Array of points to equation of a circle (Least Square Circle)
+
+Calculate the equation of the circle of best fit from an array of larger that three points. The user can disable certain points, and the equation history is tracked, allowing the user to see how different points affect the result.
+
+* [view deployment](https://secretsheppy.github.io/circle-data-from-points/)
+* [view source](https://github.com/SecretSheppy/circle-data-from-points)
+
