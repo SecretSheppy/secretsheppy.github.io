@@ -4,13 +4,13 @@
 
 <h1 align="center">SecretSheppy</h1>
 
-I am primarily a full stack web developer, with desktop app development experience in nw.js. I have significant experience in JavaScript (pure, jQuery and node), HTML and CSS. I thoroughly enjoy exploring new languages. My current favourite language is go (Golang) and I am currently working on several projects in go.
+I thoroughly enjoy problem solving. I am particularly interested in projects that involve video compression and streaming, web services and operating systems. I primarily work in Go which is a language I have found intuitive, versatile and just plain fun. I also have extensive experience with JavaScript (pure, jQuery, node and nw.js), HTML and CSS/SCSS.
 
 ## My Repositories
 
 My main repositories that I feel are useful enough to be publicly released are listed below. Some of these are much, much older than the commit history would have you believe so the code quality is not always the best. The development of all the below projects significantly contributed to my journey to advance as a developer, each teaching me several new things about integral structure of programs, working in teams or leaning a language.
 
-## Marv: Mutations Analysis, Review and Visualization
+### Marv: Mutations Analysis, Review and Visualization
 
 Marv is an interactive tool for visualising and reviewing the results of mutation analysis. Marv natively transforms the output of its various supported mutation analysis frameworks into its own standardized format in order to present the results. It allows for textual review of individual mutations. Marv displays the results of multiple frameworks simultaneously, allowing for review of results across many frameworks or even languages in one go.
 
